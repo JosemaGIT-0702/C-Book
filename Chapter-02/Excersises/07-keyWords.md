@@ -1,0 +1,1 @@
+Every single word is a keyword instead "If" because C is case sensitive and the true keyword is "if".
